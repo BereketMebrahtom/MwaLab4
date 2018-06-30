@@ -1,0 +1,14 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reactivehttpserver.js",
+  "scripts": {
+    "test": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[A\u001b[A\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b["
+  },
+  "keywords": [
+    "\u001b[B\u001b[B\u001b[B\u001b[C\u001b[C\u001b[C\u001b[A"
+  ],
+  "author": "bere",
+  "license": "ISC"
+}
